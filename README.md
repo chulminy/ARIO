@@ -38,7 +38,7 @@ Please use the images collected from a **single** building to generate each repo
 * You can see the existing report(s) or generate your own report.
 * Click the `Add` button on the bottom right.  
 * Enter the name you wish to give to the report.
-* Click `Choose files...` and select the images that you want to include in the report. Then, click the `upload` button. It takes 0.5~1 second to upload and classify each image. (so 50 images will take about a minute.) 
+* Click `Choose files...` and select the images that you want to include in the report. Then, click the `upload` button. It takes 0.5~1 second to upload and classify each image. (50 images will take about a minute.) 
 
 ![](upload.jpg)
 
