@@ -5,7 +5,8 @@ This example illustrates how to use our ARIO tool. The ARIO tool is developed to
 > * This tool is designed to generate a report for an individual building. You should use a set of pictures collected from the same building when you generate each report.
 > * Please do not click the back button in your web browser. 
 > * The function for deleting the report is not implemented yet. Please let us know if you want to delete a report.
-> * The tool is intended for generating a report for concrete or masonry buildings and will be less accurate for other construction types.    
+> * The tool is intended for generating a report for concrete or masonry buildings and will be less accurate for other construction types.     
+> * Updated 05/15/18: When you use Safari to access the tool, it is necessary to open in a new tab or window. There is no issue found in Chrome or Edge browser.   
 
 ## Getting Started
 
