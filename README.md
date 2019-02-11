@@ -11,7 +11,7 @@ This example illustrates how to use our ARIO tool. The ARIO tool is developed to
 ## Getting Started
 
 ### Step 1: Go to the ARIO website 
-Click this [**link**](http://vps182404.vps.ovh.ca) or types this address (http://hpc120.tech.purdue.edu) on your web browser (e.g. Chrome, Edge, Firefox)
+Click this [**link**](http://hpc120.tech.purdue.edu) or types this address (http://hpc120.tech.purdue.edu) on your web browser (e.g. Chrome, Edge, Firefox)
 
 ### Step 2: Log in the ARIO 
 You will see the screen below
